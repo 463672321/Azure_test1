@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_w4wmQVItEeuw6ceFMs1i3w" label="test3" description="" language="java" technicalLabel="TEST3" creationDate="2021-01-09T11:38:52.369+0800" author="_w4wmQlItEeuw6ceFMs1i3w" productVersion="Talend Big Data-7.3.1.20200219_1130" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/463672321/Azure_test1.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI">
+    <migrationTask xmi:id="_xNNMQFItEeuw6ceFMs1i3w" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_w4wmQlItEeuw6ceFMs1i3w" login="hpc_etl@aas.com" firstName="G" lastName="G" type="DI" additionnalData="{}"/>
+</xmi:XMI>
